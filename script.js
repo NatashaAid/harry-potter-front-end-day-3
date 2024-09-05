@@ -14,3 +14,9 @@ function getCharacters(){
         showCharacters(data);
     })
 }
+
+
+function showCharacters(data){
+    main.innerHTML=""
+}
+
